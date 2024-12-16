@@ -1,0 +1,10 @@
+
+All of these files have security credentials setup. To open as a developer use:
+
+User: Admin
+Password: Password
+
+Encryption Information
+
+Shared ID: 5/28/2024 8:02:37
+Encryption Password: jxp-$26-HelloWorld-99

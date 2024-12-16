@@ -1,0 +1,5 @@
+
+All of these files have security credentials setup. To open as a developer use:
+
+User: Admin
+Password: Password

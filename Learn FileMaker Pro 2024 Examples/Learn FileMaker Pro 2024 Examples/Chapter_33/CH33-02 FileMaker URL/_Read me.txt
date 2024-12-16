@@ -1,0 +1,17 @@
+
+This file demonstrates the FileMaker URL discussed in Chapter 33.
+
+1. Open the CH33-02 FileMaker URL.fmp12 database
+2. Double click each of the examples to see the browser load and redirect to the database.
+
+Example 01 - Run a Script
+
+URL = fmp://$/CH33-02%20FileMaker%20URL?script=Find
+
+Example 02 - Run a script with a parameter of "Active"
+
+URL = fmp://$/CH33-02%20FileMaker%20URL?script=Find&param=Active
+
+Example 03 - Run a script with a parameter of "Active" and setting a $State variable to "TX"
+
+URL = fmp://$/CH33-02%20FileMaker%20URL?script=Find&param=Active&$State=TX
